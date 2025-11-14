@@ -1,5 +1,7 @@
 // Write a program to implement the CookieStore Methods (add, get, getcookies, getURIs, remove, removeAll) cookies.
- import java.net.HttpCookie;
+
+//  http , methods, cookie , store (dherai) , manager(thorai)
+import java.net.HttpCookie;
  import java.net.URI;
  import java.util.ArrayList;
  import java.util.List;
